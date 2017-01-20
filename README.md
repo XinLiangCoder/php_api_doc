@@ -4,7 +4,7 @@
 
 - 将文件夹复制到到项目根目录即可。
 - 设置 api_doc/config/config.php 中 SYSTEM_CLASS_DIR 。
-- 赋予 api_doc/class 777 权限。
+- 在 api_doc 下创建 class 文件夹并赋予 777 权限。
 
 > 方法注释
 
