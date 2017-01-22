@@ -1,6 +1,6 @@
 # php_api_doc
 
-![效果图](https://ntaste.github.io/image/api_doc.gif)
+![效果图](https://ntaste.github.io/image/api_doc_1.png)
 
 > 配置
 
@@ -91,3 +91,7 @@ public function getRules()
 微信名称：IT小圈儿，微信号：ToFeelings。
 
 ![IT小圈儿](https://ntaste.github.io/image/qr.jpg)
+
+> 打赏
+
+![微信打赏](https://ntaste.github.io/image/wx_pay.jpg)
