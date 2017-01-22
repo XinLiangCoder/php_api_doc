@@ -1,5 +1,7 @@
 # php_api_doc
 
+![效果图](https://ntaste.github.io/image/api_doc.gif)
+
 > 配置
 
 - 将文件夹复制到到项目根目录即可。
