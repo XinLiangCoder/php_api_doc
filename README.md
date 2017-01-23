@@ -95,3 +95,7 @@ public function getRules()
 > 打赏
 
 ![微信打赏](https://ntaste.github.io/image/wx_pay.jpg)
+
+> 日志
+
+- 新增支持多级目录问题

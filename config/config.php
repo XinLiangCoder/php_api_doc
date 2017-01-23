@@ -9,7 +9,7 @@ define('BASEPATH', 'API_DOC');
 define('API_DOC_PATH', dirname(dirname(dirname(__FILE__))));
 
 //设置项目API目录
-define('SYSTEM_CLASS_DIR', API_DOC_PATH.'/application/controllers/');
+define('SYSTEM_CLASS_DIR', API_DOC_PATH.'/api_doc/controller/');
 
 //设置当前API目录
 define('CURRENT_CLASS_DIR', API_DOC_PATH.'/api_doc/class/');
