@@ -45,6 +45,14 @@
             preg_match_all($pattern, $php_content, $matches);
             $php_content = str_replace($matches[0], '{', $php_content);
         }
+        $check_namespace = strstr($php_content, 'namespace');
+        if ($check_namespace) {
+            $start = 'namespace';
+            $end   = ';';
+            $pattern = "/".$start.".*".$end."/";
+            preg_match_all($pattern, $php_content, $matches);
+            $php_content = str_replace($matches[0], '', $php_content);
+        }
         //获取类名
         $start = 'class';
         $end   = '{';
