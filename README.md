@@ -83,18 +83,13 @@ public function getRules()
 ```
 
 
-> 相关备注
+微信名称：新亮笔记，微信号：XinLiangTalk。
 
-- 遇到问题可以关注公众号咨询。
-- 也可以加入QQ群：564557094。
-
-微信名称：IT小圈儿，微信号：ToFeelings。
-
-![IT小圈儿](https://ntaste.github.io/image/qr.jpg)
+![新亮笔记](https://xinliangcoder.github.io/image/qr.jpg)
 
 > 打赏
 
-![微信打赏](https://ntaste.github.io/image/wx_pay.jpg)
+![微信打赏](https://xinliangcoder.github.io/image/wx_pay.jpg)
 
 > 日志
 
