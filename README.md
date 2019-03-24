@@ -87,10 +87,6 @@ public function getRules()
 
 ![新亮笔记](https://xinliangcoder.github.io/image/qr.jpg)
 
-> 打赏
-
-![微信打赏](https://xinliangcoder.github.io/image/wx_pay.jpg)
-
 > 日志
 
 - 新增支持多级目录问题
