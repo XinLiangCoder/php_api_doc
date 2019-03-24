@@ -1,6 +1,6 @@
 # php_api_doc
 
-![效果图](https://ntaste.github.io/image/api_doc_1.png)
+![效果图](https://xinliangcoder.github.io/image/api_doc_1.png)
 
 > 配置
 
